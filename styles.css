@@ -156,16 +156,17 @@ header {
 }
 .CARD {
     display: flex;
-    gap: 50px;
+    gap: 80px;
     justify-content: center;
 }
 
 .card {
-    width: 300px;
+    width: 470px;
     padding: 20px;
     border-radius: 15px;
     background-color: white;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    margin-bottom: 50px;
     
 }
 
@@ -220,4 +221,23 @@ header {
     padding: 2px 6px;
     border-radius: 5px;
 }
-    
+.workinng{
+    display: flex;
+    /* align-content: center; */
+    align-items: center;
+    gap: 20px;
+    padding-left: 100px;
+    margin-bottom: 100px;
+}
+.workinng h3{
+    border: 1px solid none;
+    border-radius: 7px;
+    background-color: #d3e812;
+    padding: 3px 10px;
+}
+
+
+.workinng p{
+    /* padding-top: 19px; */
+    width: 50%;
+}  
