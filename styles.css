@@ -64,12 +64,12 @@ header {
     
 }
 
-/* .btn:hover {
+.btn:hover {
     background-color: black;
     color: white;
 } */
 
-/* @media (max-width: 768px) {
+ @media (max-width: 768px) {
     .navbar {
         flex-direction: column;
         align-items: flex-start;
@@ -88,7 +88,7 @@ header {
     .btn {
         margin-top: 10px;
     }
-} */
+}
 
 .main-cont{
     display: flex;
