@@ -67,9 +67,9 @@ header {
 .btn:hover {
     background-color: black;
     color: white;
-} */
+} 
 
- @media (max-width: 768px) {
+@media (max-width: 768px) {
     .navbar {
         flex-direction: column;
         align-items: flex-start;
